@@ -1,4 +1,4 @@
-![Logi](https://raw.githubusercontent.com/mr-sami-x/ascii_ye/main/logo.png)
+![Logi](https://raw.githubusercontent.com/mr-sami-x/worm-gpt/main/Picsart_24-02-28_00-47-51-957.png)
 
 # WormGPT
 
